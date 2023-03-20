@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# AaravOrg Code of Conduct
 
 ## Our Pledge
 
